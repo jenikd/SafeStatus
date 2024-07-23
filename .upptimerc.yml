@@ -7,6 +7,8 @@ sites:
     url: https://safe-txservice.fantom.network/check/
   - name: Fantom Safe Tx Service TESTNET
     url: http://safe-txservice.testnet.fantom.network/check/
+  - name: Fantom Safe Config Service
+    url: https://safe.fantom.network/configservice/check/
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
