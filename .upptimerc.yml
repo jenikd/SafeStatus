@@ -9,6 +9,10 @@ sites:
     url: http://safe-txservice.testnet.fantom.network/check/
   - name: Fantom Safe Config Service
     url: https://safe.fantom.network/configservice/check/
+  - name: Fantom Safe Client Gateway
+    url: https://safe.fantom.network/v1/chains/250/safes/0x72a34AbafAB09b15E7191822A679f28E067C4a16
+  - name: Fantom Safe UI
+    url: https://safe.fantom.network/welcome
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
