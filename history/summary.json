@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/safe-txservice.fantom.network.ico",
     "slug": "fantom-safe-tx-service",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 639,
-    "timeDay": 582,
-    "timeWeek": 619,
-    "timeMonth": 639,
-    "timeYear": 639,
-    "dailyMinutesDown": {
-      "2024-08-07": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 638,
+    "timeDay": 578,
+    "timeWeek": 636,
+    "timeMonth": 638,
+    "timeYear": 638,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Fantom Safe Tx Service TESTNET",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 498,
-    "timeDay": 604,
-    "timeWeek": 481,
-    "timeMonth": 498,
-    "timeYear": 498,
+    "time": 501,
+    "timeDay": 546,
+    "timeWeek": 505,
+    "timeMonth": 501,
+    "timeYear": 501,
     "dailyMinutesDown": {}
   },
   {
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/safe.fantom.network.ico",
     "slug": "fantom-safe-config-service",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 634,
-    "timeDay": 639,
-    "timeWeek": 579,
-    "timeMonth": 634,
-    "timeYear": 634,
-    "dailyMinutesDown": {
-      "2024-08-07": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 640,
+    "timeDay": 676,
+    "timeWeek": 577,
+    "timeMonth": 640,
+    "timeYear": 640,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Fantom Safe Client Gateway",
@@ -63,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/safe.fantom.network.ico",
     "slug": "fantom-safe-client-gateway",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 719,
-    "timeDay": 812,
-    "timeWeek": 766,
-    "timeMonth": 719,
-    "timeYear": 719,
-    "dailyMinutesDown": {
-      "2024-08-07": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 723,
+    "timeDay": 802,
+    "timeWeek": 768,
+    "timeMonth": 723,
+    "timeYear": 723,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Fantom Safe UI",
@@ -88,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 450,
-    "timeDay": 575,
-    "timeWeek": 435,
-    "timeMonth": 450,
-    "timeYear": 450,
+    "time": 457,
+    "timeDay": 580,
+    "timeWeek": 455,
+    "timeMonth": 457,
+    "timeYear": 457,
     "dailyMinutesDown": {}
   }
 ]
