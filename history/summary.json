@@ -58,19 +58,19 @@
     "url": "https://safe.fantom.network/v1/chains/250/safes/0x72a34AbafAB09b15E7191822A679f28E067C4a16",
     "icon": "https://icons.duckduckgo.com/ip3/safe.fantom.network.ico",
     "slug": "fantom-safe-client-gateway",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 583,
-    "timeDay": 217,
-    "timeWeek": 325,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
+    "time": 579,
+    "timeDay": 248,
+    "timeWeek": 323,
     "timeMonth": 293,
-    "timeYear": 583,
+    "timeYear": 579,
     "dailyMinutesDown": {
-      "2024-10-02": 0
+      "2024-10-02": 27
     }
   },
   {
